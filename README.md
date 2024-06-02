@@ -18,5 +18,5 @@ This is a simple virtual tree game where users can plant and take care of a virt
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/virtual-tree-game.git
+   git clone https://github.com/MonaLi-Sa/virtual-tree-game.git
    cd virtual-tree-game
