@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #e0f7fa;
+}
+
+.game-container {
+    margin: 50px auto;
+    width: 300px;
+}
+
+#tree {
+    width: 100%;
+    transition: transform 0.5s;
+}
+
+.controls {
+    margin: 20px 0;
+}
+
+button {
+    margin: 5px;
+    padding: 10px 20px;
+    border: none;
+    background-color: #4caf50;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+#message {
+    margin-top: 20px;
+    font-size: 1.2em;
+    color: #ff5722;
+}
