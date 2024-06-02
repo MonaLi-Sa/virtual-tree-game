@@ -6,12 +6,13 @@ body {
 
 .game-container {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     margin: 50px auto;
     width: 300px;
 }
 
 #tree {
+    padding-bottom: 50px;
     width: 100%;
     max-width: 250px; /* Set a maximum width */
     height: auto; /* Maintain aspect ratio */
