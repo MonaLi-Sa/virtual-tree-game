@@ -20,3 +20,9 @@ This is a simple virtual tree game where users can plant and take care of a virt
    ```bash
    git clone https://github.com/MonaLi-Sa/virtual-tree-game.git
    cd virtual-tree-game
+
+2. Open `index.html` in your web browser to start the game.
+
+### Deployment
+
+This game is deployed using GitHub Pages and is available at `https://MonaLi-Sa.github.io/virtual-tree-game/`.
